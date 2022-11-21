@@ -2,7 +2,8 @@
 
 <body style="background-image: url(img/Angel.jpg); background-size: 100%; background-repeat: no-repeat; background-position: top center;">
 <center><font color='#1C0E0D'>
-<audio src="music/send_me_an_angel.mp3" autoplay="autoplay"></audio>
+<audio src="music/send_me_an_angel.mp3" autoplay controls="controls"></audio>
+<audio> <source src="music/send_me_an_angel.mp3" autoplay type="audio/mp3"></audio>
 
 <p> * поэтический (эквиритмичный) перевод<br>Юрий Товстый
 
